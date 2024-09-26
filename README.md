@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello, I'm Pratik Makwana 👋
+
+<h3>About Me</h3>
+<p>I'm a passionate full-stack developer in PHP, Laravel, CodeIgniter, CakePHP, AngularJs, ReactJS, VueJS, NextJS, NuxtJS. With a keen eye for design and a strong technical background.</p>
+<p>AWS, Rest API, Third Party API, MySQL, Web application Development, and Customization Jquery, Ajax, CSS using bootstrap, etc..</p>
 
 <!--
 **makwanapratik94/makwanapratik94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
